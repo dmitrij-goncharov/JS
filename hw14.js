@@ -4,5 +4,4 @@ var num =0;
         n = n / 2;
         num++;
     }
-
 console.log('Количество итераций '+ num);
