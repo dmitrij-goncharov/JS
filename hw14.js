@@ -5,3 +5,4 @@ var num =0;
         num++;
     }
 console.log('Количество итераций '+ num);
+console.log('Получилось число ' + n);
